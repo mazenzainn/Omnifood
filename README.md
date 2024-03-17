@@ -2,7 +2,7 @@
 
 Omnifood is part of the "Build Real World Website" course hosted on Udemy. It's a fictional company, that provides food subscriptions for its customers. This project focuses on design, responsive layout, performance and accessibility.
 
-# <h3 align="center"> [Live](https://kasper-psd-mazen.netlify.app)</h3>
+# <h3 align="center"> [Live](https://omnifood-project-mazen.netlify.app)</h3>
 
 # Key Features
 
